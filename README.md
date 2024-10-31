@@ -9,7 +9,7 @@ If data is missing, the accuracy of your analytics is left up to luck and coinci
 
 This repository is all the code objects from the video and webpage posting
 
-### Web Posting: https://peopletoolstechtips.com/
+### Web Posting: https://peopletoolstechtips.com/are-you-missing-data-in-your-insights-dashboards/
 
 ### Walkthrough Documentation: See Website
 
